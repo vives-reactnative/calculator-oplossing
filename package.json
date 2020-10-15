@@ -8,11 +8,11 @@
     "eject": "expo eject"
   },
   "dependencies": {
-    "expo": "~39.0.3",
-    "react": "16.14.0",
-    "react-dom": "16.14.0",
-    "react-native": "https://github.com/expo/react-native/archive/sdk-35.0.0.tar.gz",
-    "react-native-web": "^0.14.1"
+    "expo": "^39.0.0",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-39.0.3.tar.gz",
+    "react-native-web": "~0.13.7"
   },
   "devDependencies": {
     "babel-preset-expo": "^8.3.0",
